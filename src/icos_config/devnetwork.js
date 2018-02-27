@@ -28,6 +28,6 @@ export default {
     q13: { answer: false, comment: '' },
     q14: { answer: false, comment: '' },
   },
-  addedBy:"thanawatnew",
+  addedBy: 'thanawatnew',
   dateAdded: '27-02-2018',
 }
